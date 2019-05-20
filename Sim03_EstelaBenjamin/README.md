@@ -1,7 +1,8 @@
 Name: Benjamin Estela  
 Class: CS 446  
 Assignment: 3  
-Date: April 7, 2019  
+Due Date: April 7, 2019  
+Grade: 100%
 
 ---  
 

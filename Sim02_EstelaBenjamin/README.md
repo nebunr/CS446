@@ -1,7 +1,8 @@
 Name: Benjamin Estela  
 Class: CS 446  
 Assignment: 2 
-Date: March 15, 2019  
+Due Date: March 15, 2019  
+Grade: 97% - “Readme missing the pcb and pthread file name and file number.”
 
 ---  
 

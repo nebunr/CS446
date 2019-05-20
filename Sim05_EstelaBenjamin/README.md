@@ -1,7 +1,8 @@
 Name: Benjamin Estela  
 Class: CS 446  
 Assignment: 5  
-Date: May 8, 2019  
+Due Date: May 8, 2019  
+Grade: 80% - “algorithms are not working as expected.”
 
 ---  
 

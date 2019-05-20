@@ -1,7 +1,8 @@
 Name: Benjamin Estela  
 Class: CS 446  
 Assignment: 1  
-Date: February 19, 2019  
+Due Date: February 20, 2019  
+Grade: 97% - “error handling is not done correctly.”
 
 ---  
 
